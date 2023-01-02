@@ -1,5 +1,5 @@
-<h1 align="center">Hi, This is Salman Shahriar</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="left">Hi, This is Salman Shahriar</h1>
+<h3 align="left">A passionate frontend developer from Bangladesh</h3>
 <div align="center">
  
   ![Snake animation](https://github.com/sabbirzzaman/sabbirzzaman/blob/output/github-contribution-grid-snake.svg)
