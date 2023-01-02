@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Salman Shahriar</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<div align="center">
+ 
+  ![Snake animation](https://github.com/sabbirzzaman/sabbirzzaman/blob/output/github-contribution-grid-snake.svg)
+  
+ </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanshahriar&label=Profile%20views&color=0e75b6&style=flat" alt="salmanshahriar" /> </p>
 
 - 📫 How to reach me **salmanshahriar67@gmail.com**
