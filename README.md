@@ -1,5 +1,5 @@
 <h1 align="left">Hi, This is Salman Shahriar</h1>
-<h3 align="left">A passionate frontend developer from Bangladesh</h3>
+<h3 align="left">Frontend | MREN Stack | Create user-friendly web applications.</h3>
  
  <div align="center">
  
