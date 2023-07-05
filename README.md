@@ -1,5 +1,5 @@
 <h2 align="left">Hi, This is Salman Shahriar.</h2>
-<h3 align="left">A Frontend Developer. Aslo known with MREN Stack technology. </h3>
+<h4 align="left">A Frontend Developer. Aslo known with MREN Stack technology. </h4>
 <h5></h5>
  
  <div align="center">
@@ -19,6 +19,7 @@
 <a href="https://instagram.com/salmanshahriar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salmanshahriar_" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/hWuRMEwRM7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/hWuRMEwRM7" height="30" width="40" /></a>
 </p>
+
 
 
 <p align="center">
