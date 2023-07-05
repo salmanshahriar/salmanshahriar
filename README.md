@@ -1,5 +1,6 @@
-<h1 align="left">Hi, This is Salman Shahriar</h1>
-<h3 align="left">Frontend | MREN Stack | Create user-friendly web applications.</h3>
+<h2 align="left">Hi, This is Salman Shahriar</h2>
+<h3 align="left">MREN Stack Developer.</h3>
+<h5></h5>
  
  <div align="center">
  
@@ -9,7 +10,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanshahriar&label=Profile%20views&color=0e75b6&style=flat" alt="salmanshahriar" /> </p>
 
-- 📫 How to reach me **salmanshahriar67@gmail.com**
+- 📫 How to reach me **salmanshahriar.official @gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
