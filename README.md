@@ -2,12 +2,6 @@
 <h4 align="left">A Frontend Developer. Aslo known with MREN Stack technology. </h4>
 <h5></h5>
  
- <div align="center">
- 
-  ![Snake animation](https://github.com/sabbirzzaman/sabbirzzaman/blob/output/github-contribution-grid-snake.svg)
-  
- </div>
- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanshahriar&label=Profile%20views&color=0e75b6&style=flat" alt="salmanshahriar" /> </p>
 
 - 📫 How to reach me **salmanshahriar.official@gmail.com**
