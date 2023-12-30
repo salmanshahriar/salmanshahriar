@@ -1,6 +1,5 @@
 <h2 align="left">Hi, This is Salman Shahriar.</h2>
-<h4 align="left">A Frontend Developer. Aslo known with MREN Stack technology. </h4>
-<h5></h5>
+<h4 align="left">A Frontend Developer from bangladesh.. </h4>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanshahriar&label=Profile%20views&color=0e75b6&style=flat" alt="salmanshahriar" /> </p>
 
@@ -16,5 +15,3 @@
 
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=salmanshahriar&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=salmanshahriar&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
