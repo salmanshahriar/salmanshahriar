@@ -4,6 +4,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanshahriar&label=Profile%20views&color=0e75b6&style=flat" alt="salmanshahriar" /> </p>
 
 - 📫 How to reach me **salmanshahriar.official@gmail.com**
+<code>
+const sabbirzzaman = {
+    pronouns: "he" | "him",
+    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+    askMeAbout: ["web dev", "tech", "music", "coffee"],
+    technologies: {
+        frontEnd: {
+            framework: ["react.js", "next.js", "redux"],
+            css: ["tailwind", "bootstrap", "SASS", "material ui"]
+        },
+        backEnd: {
+            js: ["firebase", "node.js", "express.js", "mongodb"]
+        },
+        CMS: "WordPress"
+    }
+};
+</code>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
