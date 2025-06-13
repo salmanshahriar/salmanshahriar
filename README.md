@@ -45,6 +45,7 @@ const salmanShahriar = {
     ai: ["Agentic AI", "LLM Integration"]
   }
 };
+```
 
 ## Languages and Tools
 
