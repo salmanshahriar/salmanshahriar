@@ -27,21 +27,20 @@ Hi, I’m Salman Shahriar. A Frontend Developer with 3.5 years of experience. I 
 ```javascript
 const salmanShahriar = {
   pronouns: ["he", "him"],
-  languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  askMeAbout: ["web dev", "tech", "music", "coffee"],
+  languages: ["JavaScript", "TypeScript", "HTML", "CSS", "Python"],
+  askMeAbout: ["web dev", "agentic ai", "music", "coffee"],
   technologies: {
     frontEnd: {
       frameworks: ["React.js", "Next.js"],
       stateManagement: ["Redux", "Context API"],
-      styling: ["Tailwind CSS", "Bootstrap", "SASS", "Material UI"]
+      styling: ["Tailwind CSS", "Bootstrap", "SASS", "Shadcn"]
     },
     backEnd: {
       js: ["Node.js", "Express.js"],
-      database: ["MongoDB", "Firebase", "PostgreSQL"]
+      database: ["MongoDB", "PostgreSQL", "Firebase"]
     },
-    cms: ["WordPress"],
     tools: ["Git", "Webpack", "Vite", "Figma"],
-    devOps: ["Docker", "CI/CD", "AWS"],
+    devOps: ["Docker", "CI/CD"],
     ai: ["Agentic AI", "LLM Integration"]
   }
 };
