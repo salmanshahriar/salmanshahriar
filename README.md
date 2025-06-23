@@ -39,7 +39,7 @@ const salmanShahriar = {
       js: ["Node.js", "Express.js"],
       database: ["MongoDB", "PostgreSQL", "Firebase"]
     },
-    tools: ["Git", "Webpack", "Vite", "Figma"],
+    tools: ["Git", "Webpack", "Vite", "Figma", "Linux"],
     devOps: ["Docker", "CI/CD"],
     ai: ["Agentic AI", "LLM Integration"]
   }
