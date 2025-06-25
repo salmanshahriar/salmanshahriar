@@ -27,7 +27,7 @@ Hi, I’m Salman Shahriar. A Frontend Developer with 3.5 years of experience. I 
 ```javascript
 const salmanShahriar = {
   pronouns: ["he", "him"],
-  languages: ["JavaScript", "TypeScript", "HTML", "CSS", "Python"],
+  languages: ["JavaScript", "TypeScript", "Python"],
   askMeAbout: ["web dev", "agentic ai", "music", "coffee"],
   technologies: {
     frontEnd: {
