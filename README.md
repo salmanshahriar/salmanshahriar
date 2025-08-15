@@ -17,7 +17,7 @@
 
 Hi, I’m Salman Shahriar. A Frontend Developer with 3.5 years of experience. I specialize in building high-performance web applications, learning management systems (LMS), and AI-driven SaaS products using modern web technologies. I'm passionate about meaningful innovation and bringing ideas to life. I work on projects that inspire me, solve real problems, and create a positive impact. (Currently diving into Agentic AI development and DevOps.)
 
-- 🌐 **Portfolio:** <a href="https://salmanshahriar.com" target="_blank" rel="noopener noreferrer">salmanshahriar.com</a>
+- 🌐 **Portfolio:** <a href="https://www.salmanshahriar.com" target="_blank" rel="noopener noreferrer">www.salmanshahriar.com</a>
 - 📫 **Email:** salmanshahriar.official@gmail.com
 - 🔗 **Connect with me on LinkedIn:** <a href="https://www.linkedin.com/in/salman-shahriar" target="_blank" rel="noopener noreferrer">linkedin.com/in/salman-shahriar</a>
 - 💼 Open to new opportunities and collaborations
