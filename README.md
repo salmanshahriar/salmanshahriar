@@ -2,7 +2,7 @@
 
   # Salman Shahriar
   
-  ### Frontend Engineer | System Designer | Saas & LMS Builder
+  ### Software Developer | Frontend Expert | System Architect
   
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-shahriar)
@@ -15,12 +15,11 @@
 
 ## About Me
 
-Hi, I’m Salman Shahriar. A Frontend Developer with 3.5 years of experience. I specialize in building high-performance web applications, learning management systems (LMS), and AI-driven SaaS products using modern web technologies. I'm passionate about meaningful innovation and bringing ideas to life. I work on projects that inspire me, solve real problems, and create a positive impact. (Currently diving into Agentic AI development and DevOps.)
+Hi, I’m Salman Shahriar. A Software Developer and a Frontend Expert with 3.5 years of experience. I specialize in building high-performance web applications, Edtech, LMS, Finance, and AI-driven SaaS products. (Currently diving into DevOps and Agentic Automation.)
 
-- 🌐 **Portfolio:** <a href="https://www.salmanshahriar.com" target="_blank" rel="noopener noreferrer">www.salmanshahriar.com</a>
-- 📫 **Email:** hello.salmanshahriar@gmail.com
-- 🔗 **Connect with me on LinkedIn:** <a href="https://www.linkedin.com/in/salman-shahriar" target="_blank" rel="noopener noreferrer">linkedin.com/in/salman-shahriar</a>
-- 💼 Open to new opportunities and collaborations
+- **Visit my website:** <a href="https://www.salmanshahriar.com" target="_blank" rel="noopener noreferrer">www.salmanshahriar.com</a>
+- **Mail:** hello.salmanshahriar@gmail.com
+- **Lets connect on LinkedIn:** <a href="https://www.linkedin.com/in/salman-shahriar" target="_blank" rel="noopener noreferrer">linkedin.com/in/salman-shahriar</a>
 
 ## Skills
 
@@ -28,16 +27,16 @@ Hi, I’m Salman Shahriar. A Frontend Developer with 3.5 years of experience. I 
 const salmanShahriar = {
   pronouns: ["he", "him"],
   languages: ["JavaScript", "TypeScript", "Python"],
-  askMeAbout: ["web dev", "agentic ai", "music", "coffee"],
+  askMeAbout: ["web dev", "devOps", "agentic-automation", "music", "coffee"],
   technologies: {
     frontEnd: {
-      frameworks: ["React.js", "Next.js"],
+      frameworks: ["React.js", "Next.js", "Inertia.js"],
       stateManagement: ["Redux", "Context API"],
       styling: ["Tailwind CSS", "Bootstrap", "SASS", "Shadcn"]
     },
     backEnd: {
       js: ["Node.js", "Express.js"],
-      database: ["MongoDB", "PostgreSQL", "Firebase"]
+      database: ["PostgreSQL", "MongoDB"]
     },
     tools: ["Git", "Webpack", "Vite", "Figma", "Linux"],
     devOps: ["Docker", "CI/CD"],
@@ -50,21 +49,19 @@ const salmanShahriar = {
 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+  ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![AI Automation](https://img.shields.io/badge/AI%20Automation-000000?style=for-the-badge&logo=robotframework&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=%232C3E50)
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+  ![Inertia.js](https://img.shields.io/badge/inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![AI](https://img.shields.io/badge/Agentic_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+
 
