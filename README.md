@@ -59,7 +59,6 @@ const salmanShahriar = {
   ![AI Automation](https://img.shields.io/badge/AI%20Automation-000000?style=for-the-badge&logo=robotframework&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
   ![Inertia.js](https://img.shields.io/badge/inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
