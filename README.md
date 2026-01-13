@@ -42,7 +42,7 @@ const salmanShahriar = {
     },
     tools: ["Git", "Webpack", "Vite", "Figma", "Linux"],
     devOps: ["Docker", "CI/CD", "Coolify"],
-    ai: ["LLM Integration"]
+    ai: ["LLM Integration", "Automation"]
   }
 };
 ```
@@ -53,15 +53,17 @@ const salmanShahriar = {
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Inertia.js](https://img.shields.io/badge/inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/prisma-%234B6CC1.svg?style=for-the-badge&logo=prisma&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
   ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![AI Automation](https://img.shields.io/badge/AI%20Automation-000000?style=for-the-badge&logo=robotframework&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Inertia.js](https://img.shields.io/badge/inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
