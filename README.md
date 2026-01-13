@@ -36,7 +36,9 @@ const salmanShahriar = {
     },
     backEnd: {
       js: ["Node.js", "Express.js"],
-      database: ["PostgreSQL", "MongoDB"]
+      database: ["PostgreSQL", "MongoDB"],
+      cache: ["Redis"],
+      orm: ["Prisma"]
     },
     tools: ["Git", "Webpack", "Vite", "Figma", "Linux"],
     devOps: ["Docker", "CI/CD", "Coolify"],
