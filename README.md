@@ -15,7 +15,7 @@
 
 ## About Me
 
-Hi, I’m Salman Shahriar. A Software Developer and a Frontend Expert with 3.5 years of experience. I specialize in building high-performance web applications, Edtech, LMS, Finance, and AI-driven SaaS products. (Currently diving into DevOps and Agentic Automation.)
+Hi, I’m Salman Shahriar. A Software Developer and a Frontend Expert with 3.5 years of experience. I specialize in building web applications, Edtech, LMS, Finance, and AI-driven SaaS products. (Currently diving into DevOps and Agentic Automation.)
 
 - **Visit my website:** <a href="https://salmanshahriar.com" target="_blank" rel="noopener noreferrer">salmanshahriar.com</a>
 - **Mail:** hello.salmanshahriar@gmail.com
@@ -39,8 +39,8 @@ const salmanShahriar = {
       database: ["PostgreSQL", "MongoDB"]
     },
     tools: ["Git", "Webpack", "Vite", "Figma", "Linux"],
-    devOps: ["Docker", "CI/CD"],
-    ai: ["Agentic AI", "LLM Integration"]
+    devOps: ["Docker", "CI/CD", "Coolify"],
+    ai: ["LLM Integration"]
   }
 };
 ```
