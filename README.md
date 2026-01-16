@@ -32,7 +32,7 @@ const salmanShahriar = {
     frontEnd: {
       frameworks: ["React.js", "Next.js", "Inertia.js"],
       stateManagement: ["Redux", "Context API"],
-      styling: ["Tailwind CSS", "Bootstrap", "SASS", "Shadcn"]
+      styling: ["Tailwind CSS", "SASS", "Shadcn"]
     },
     backEnd: {
       js: ["Node.js", "Express.js"],
@@ -40,7 +40,7 @@ const salmanShahriar = {
       cache: ["Redis"],
       orm: ["Prisma"]
     },
-    tools: ["Git", "Webpack", "Vite", "Figma", "Linux"],
+    tools: ["Linux", "Git", "Figma"],
     devOps: ["Docker", "CI/CD", "Coolify"],
     ai: ["LLM Integration", "Automation"]
   }
