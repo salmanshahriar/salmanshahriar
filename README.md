@@ -7,15 +7,15 @@
   
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-shahriar)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmanshahriar.official@gmail.com)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/salmanshahriar.hq)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/salmanshahriar.hq)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/salman.codes)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/salman.codes)
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hWuRMEwRM7)
   
 </div>
 
 ## About Me
 
-Hi, I’m Salman Shahriar. A Software Developer and a Frontend Expert with 3.5 years of experience. I specialize in building web applications, Edtech, LMS, Finance, and AI-driven SaaS products. (Consistently building and improving skills in DevOps)
+Hi, I’m Salman Shahriar. A Software Developer and a Frontend Expert with 3.5 years of experience. I specialize in building web applications, Edtech, LMS, Finance, Map-based platforms, and AI-driven SaaS products. (Consistently building and improving skills in DevOps)
 
 - **Visit my website:** <a href="https://salmanshahriar.com" target="_blank" rel="noopener noreferrer">salmanshahriar.com</a>
 - **Mail:** hello.salmanshahriar@gmail.com
@@ -40,9 +40,9 @@ const salmanShahriar = {
       cache: ["Redis"],
       orm: ["Prisma"]
     },
-    tools: ["Linux", "Git", "Figma"],
-    devOps: ["Docker", "CI/CD", "Coolify"],
-    ai: ["LLM Integration", "Automation"]
+    tools: ["Linux", "Git", "Postman", "Figma"],
+    devOps: ["Docker", "CI/CD", "Ngnix", "AWS"],
+    ai: ["LLM", "Automation"]
   }
 };
 ```
