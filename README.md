@@ -15,7 +15,7 @@
 
 ## About Me
 
-Hi, I’m Salman Shahriar. A Software Developer and a Frontend Expert with 3.5 years of experience. I specialize in building web applications, Edtech, LMS, Finance, Map-based platforms, and AI-driven SaaS products. (Consistently building and improving skills in DevOps)
+Hi, I’m Salman Shahriar. A Software Developer and a Frontend Expert with 3.5 years of experience. I specialize in building web applications, Edtech, LMS, Finance, Map-based platforms, and AI-driven SaaS products. And also consistently building and improving skills in DevOps
 
 - **Visit my website:** <a href="https://salmanshahriar.com" target="_blank" rel="noopener noreferrer">salmanshahriar.com</a>
 - **Mail:** hello.salmanshahriar@gmail.com
