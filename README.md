@@ -6,7 +6,7 @@
   
   
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-shahriar)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmanshahriar.official@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@salmanshahriar.com)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/salman.codes)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/salman.codes)
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hWuRMEwRM7)
@@ -18,7 +18,7 @@
 Hi, I’m Salman Shahriar. A Software Developer and a Frontend Expert with 3.5 years of experience. I specialize in building web applications, Edtech, LMS, Finance, Map-based platforms, and AI-driven SaaS products. And also consistently building and improving skills in DevOps
 
 - **Visit my website:** <a href="https://salmanshahriar.com" target="_blank" rel="noopener noreferrer">salmanshahriar.com</a>
-- **Mail:** hello.salmanshahriar@gmail.com
+- **Email:** hello@salmanshahriar.com
 - **Lets connect on LinkedIn:** <a href="https://www.linkedin.com/in/salman-shahriar" target="_blank" rel="noopener noreferrer">linkedin.com/in/salman-shahriar</a>
 
 ## Skills
@@ -27,28 +27,17 @@ Hi, I’m Salman Shahriar. A Software Developer and a Frontend Expert with 3.5 y
 const salmanShahriar = {
   pronouns: ["he", "him"],
   languages: ["JavaScript", "TypeScript", "Python"],
-  askMeAbout: ["web dev", "devOps", "agentic-automation", "music", "coffee"],
+  askMeAbout: ["web dev", "devOps", "music", "coffee"],
   technologies: {
-    frontEnd: {
-      frameworks: ["React.js", "Next.js", "Inertia.js"],
-      stateManagement: ["Redux", "Context API"],
-      styling: ["Tailwind CSS", "SASS", "Shadcn"]
-    },
-    backEnd: {
-      js: ["Node.js", "Express.js"],
-      database: ["PostgreSQL", "MongoDB"],
-      cache: ["Redis"],
-      orm: ["Prisma"]
-    },
-    tools: ["Linux", "Git", "Postman", "Figma"],
-    devOps: ["Docker", "CI/CD", "Ngnix", "AWS"],
-    ai: ["LLM", "Automation"]
+    frontEnd: ["React", "Next.js", "Tailwind CSS", "Shadcn UI"],
+    backEnd: ["Node.js", "Express.js", "PostgreSQL", "Prisma", "Redis"],
+    tools: ["Git", "Docker", "Figma", "Linux"],
+    ai: ["Agentic AI", "LLM Integration"]
   }
 };
 ```
-
-## Languages and Tools
-
+<div align="center">
+ 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -67,4 +56,5 @@ const salmanShahriar = {
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
+</div>
 
