@@ -1,9 +1,6 @@
-<div align="center">
+<div>
 
-  # Salman Shahriar
-  
-  ### Software Developer | Frontend Expert | System Architect
-  
+  # Salman Shahriar  
   
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-shahriar)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@salmanshahriar.com)
@@ -14,9 +11,9 @@
   
 </div>
 
-## About Me
+## About
 
-Hi, I'm Salman Shahriar. Frontend-focused Software Developer with 3+ years of experience building scalable web and mobile
+Frontend-focused Software Developer with 3+ years of experience building scalable web and mobile
 applications across EdTech, LMS, Fintech, Automotive, NGO, and AI SaaS domains. I lead frontend architecture
 and UI/UX from design to production, with backend experience in Node.js and PostgreSQL, and hands-on
 experience in DevOps, cloud infrastructure, and CI/CD on Linux and Azure.
@@ -41,24 +38,3 @@ const salmanShahriar = {
   }
 };
 ```
-<div align="center">
- 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Inertia.js](https://img.shields.io/badge/inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Prisma](https://img.shields.io/badge/prisma-%234B6CC1.svg?style=for-the-badge&logo=prisma&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-  ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![AI Automation](https://img.shields.io/badge/AI%20Automation-000000?style=for-the-badge&logo=robotframework&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
-</div>
