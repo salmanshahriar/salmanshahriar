@@ -16,11 +16,15 @@
 
 ## About Me
 
-Hi, I'm Salman Shahriar. A Software Developer and a Frontend Expert with 3.5 years of experience. I specialize in building web applications, Edtech, LMS, Finance, Map-based platforms, and AI-dri[...]
+Hi, I'm Salman Shahriar. Frontend-focused Software Developer with 3+ years of experience building scalable web and mobile
+applications across EdTech, LMS, Fintech, Automotive, NGO, and AI SaaS domains. I lead frontend architecture
+and UI/UX from design to production, with backend experience in Node.js and PostgreSQL, and hands-on
+experience in DevOps, cloud infrastructure, and CI/CD on Linux and Azure.
 
+- **Lets connect on LinkedIn:** <a href="https://www.linkedin.com/in/salman-shahriar" target="_blank" rel="noopener noreferrer">linkedin.com/in/salman-shahriar</a>
 - **Visit my website:** <a href="https://salmanshahriar.com" target="_blank" rel="noopener noreferrer">salmanshahriar.com</a>
 - **Email:** hello@salmanshahriar.com
-- **Lets connect on LinkedIn:** <a href="https://www.linkedin.com/in/salman-shahriar" target="_blank" rel="noopener noreferrer">linkedin.com/in/salman-shahriar</a>
+
 
 ## Skills
 
