@@ -1,6 +1,13 @@
-<div>
+## **About ME**
 
-  # **Salman Shahriar**  
+
+**Full-Stack Software Engineer** with **3** years of experience developing and orchestrating scalable web ecosystems
+across **EdTech**, **Fintech**, **Automotive**, **NGO**, and **SaaS** domains. Proven track record of driving frontend
+architecture and **premium UI/UX** from design to production, alongside robust **Node.js/PostgreSQL** backend
+development and cloud-native **DevOps** on **Linux** and **Azure**.
+
+## **Links**
+<div>
  
   [![Resume](https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://salmanshahriar.com/Salman-Shahriar.pdf)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@salmanshahriar.com)
@@ -12,18 +19,8 @@
   
  </div>
 
-## **About**
-
-
-**Full-Stack Software Engineer** with **3** years of experience developing and orchestrating scalable web ecosystems
-across **EdTech**, **Fintech**, **Automotive**, **NGO**, and **SaaS** domains. Proven track record of driving frontend
-architecture and **premium UI/UX** from design to production, alongside robust **Node.js/PostgreSQL** backend
-development and cloud-native **DevOps** on **Linux** and **Azure**.
-
-
-- Visit my portfolio: <a href="https://salmanshahriar.com" target="_blank" rel="noopener noreferrer">salmanshahriar.com</a>
-- Lets connect on LinkedIn: <a href="https://www.linkedin.com/in/salman-shahriar" target="_blank" rel="noopener noreferrer">/in/salman-shahriar</a>
-
+Visit my portfolio: <a href="https://salmanshahriar.com" target="_blank" rel="noopener noreferrer">salmanshahriar.com</a> ,
+Lets connect on LinkedIn: <a href="https://www.linkedin.com/in/salman-shahriar" target="_blank" rel="noopener noreferrer">/in/salman-shahriar</a>
 
 ## **Skills**
 
@@ -40,3 +37,4 @@ const salmanShahriar = {
   }
 };
 ```
+
