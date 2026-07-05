@@ -9,13 +9,13 @@ development and cloud-native **DevOps** on **Linux** and **Azure**.
 ## **Links**
 <div>
  
-[![Email](https://img.shields.io/badge/Email-8A2E24?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hello@salmanshahriar.com)
-[![Resume](https://img.shields.io/badge/Resume-964747?style=for-the-badge&logo=readdotcv&logoColor=white)](https://salmanshahriar.com/Salman-Shahriar.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-164E87?style=for-the-badge&logo=polywork&logoColor=white)](https://linkedin.com/in/salman-shahriar)
-[![Instagram](https://img.shields.io/badge/Instagram-8F2A42?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/salman.codes)
-[![Facebook](https://img.shields.io/badge/Facebook-1A4B8C?style=for-the-badge&logo=meta&logoColor=white)](https://fb.com/salman.codes)
-[![X](https://img.shields.io/badge/X-21262D?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SalmanShahriar_)
-[![Discord](https://img.shields.io/badge/Discord-404BA6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hWuRMEwRM7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hello@salmanshahriar.com)
+[![Resume](https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=readdotcv&logoColor=white)](https://salmanshahriar.com/Salman-Shahriar.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=polywork&logoColor=white)](https://linkedin.com/in/salman-shahriar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/salman.codes)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=meta&logoColor=white)](https://fb.com/salman.codes)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SalmanShahriar_)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hWuRMEwRM7)
 
 </div>
 
