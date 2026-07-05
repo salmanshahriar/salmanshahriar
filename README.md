@@ -1,4 +1,4 @@
-## **About ME**
+## **About me**
 
 
 **Full-Stack Software Engineer** with **3** years of experience developing and orchestrating scalable web ecosystems
@@ -9,14 +9,14 @@ development and cloud-native **DevOps** on **Linux** and **Azure**.
 ## **Links**
 <div>
  
-  [![Resume](https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://salmanshahriar.com/Salman-Shahriar.pdf)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@salmanshahriar.com)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-shahriar)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/salman.codes)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/salman.codes)
-  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SalmanShahriar_)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hWuRMEwRM7)
-  
+[![Email](https://img.shields.io/badge/Email-212121?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hello@salmanshahriar.com)
+[![Resume](https://img.shields.io/badge/Resume-212121?style=for-the-badge&logo=readdotcv&logoColor=white)](https://salmanshahriar.com/Salman-Shahriar.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-212121?style=for-the-badge&logo=polywork&logoColor=white)](https://linkedin.com/in/salman-shahriar)
+[![Instagram](https://img.shields.io/badge/Instagram-212121?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/salman.codes)
+[![Facebook](https://img.shields.io/badge/Facebook-212121?style=for-the-badge&logo=meta&logoColor=white)](https://fb.com/salman.codes)
+[![X](https://img.shields.io/badge/X-212121?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SalmanShahriar_)
+[![Discord](https://img.shields.io/badge/Discord-212121?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hWuRMEwRM7)
+
  </div>
 
 Visit my portfolio: <a href="https://salmanshahriar.com" target="_blank" rel="noopener noreferrer">salmanshahriar.com</a> ,
