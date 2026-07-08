@@ -1,9 +1,10 @@
 ## **About me**
 
 
-**Full-Stack Software Engineer** with **3** years of experience developing and orchestrating scalable web ecosystems
-across **EdTech**, **Fintech**, **Automotive**, **NGO**, and **SaaS** domains. Proven track record of driving frontend
-architecture and **premium UI/UX** from design to production, alongside robust **Node.js/PostgreSQL** backend
+**Full-Stack Software Engineer** specialized in **Front-End** with **3** years of experience developing and
+orchestrating **10+ production scalable web ecosystems** across **EdTech**, **Fintech**, **Automotive**,
+**NGO**, and **SaaS** domains. Proven track record of driving **React/TypeScript** frontend architecture
+and **premium UI/UX** from design to production, alongside robust **Node.js/PostgreSQL** backend
 development and cloud-native **DevOps** on **Linux** and **Azure**.
 
 ## **Links**
