@@ -1,11 +1,7 @@
 ## **About me**
 
 
-**Full-Stack Software Engineer** specialized in **Front-End** with **3** years of experience developing and
-orchestrating **10+ production scalable web ecosystems** across **EdTech**, **Fintech**, **Automotive**,
-**NGO**, and **SaaS** domains. Proven track record of driving **React/TypeScript** frontend architecture
-and **premium UI/UX** from design to production, alongside robust **Node.js/PostgreSQL** backend
-development and cloud-native **DevOps** on **Linux** and **Azure**.
+**Full-Stack Software Developer** specialized in **Front-End** with **3** years of experience developing and orchestrating **10+ production scalable web ecosystems** across **EdTech**, **Fintech**, **Automotive**, **NGO**, and **SaaS** domains. Shipped **React/TypeScript** frontend architecture and **premium UI/UX** from design to production, alongside **Node.js/PostgreSQL** backend work and cloud-native **DevOps** on **Linux** and **Azure**.
 
 ## **Links**
 <div>
@@ -31,9 +27,9 @@ const salmanShahriar = {
   languages: ["JavaScript", "TypeScript", "Python"],
   askMeAbout: ["web dev", "devOps", "music", "coffee"],
   technologies: {
-    frontEnd: ["React", "Next.js", "Tailwind", "Shadcn"],
-    backEnd: ["Node.js", "Express.js", "PostgreSQL", "Prisma", "Redis"],
-    tools: ["Git", "Docker", "Figma", "Linux", "Azure"],
+    frontEnd: ["Tailwind","React", "Next.js"],
+    backEnd: ["Node.js", "PostgreSQL", "Prisma", "Redis"],
+    tools: ["Git", "Docker", "Figma", "Linux", "AWS" "Azure"],
     ai: ["Agentic AI", "LLM Integration"]
   }
 };
