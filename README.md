@@ -23,7 +23,7 @@ Lets connect on LinkedIn: <a href="https://www.linkedin.com/in/salman-shahriar" 
 ```typescript
 const salmanShahriar = {
   pronouns: ["he", "him"],
-  languages: ["JavaScript", "TypeScript", "Python"],
+  languages: ["JavaScript", "TypeScript", "Go"],
   askMeAbout: ["web dev", "devOps", "music", "coffee"],
   technologies: {
     frontEnd: ["Tailwind","React", "Next.js"],
