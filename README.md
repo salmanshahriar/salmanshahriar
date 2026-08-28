@@ -1,7 +1,6 @@
 ## **About me**
 
-
-**Full-Stack Software Developer** specialized in **Front-End** with **3** years of experience developing and orchestrating **10+ production scalable web ecosystems** across **EdTech**, **Fintech**, **Automotive**, **NGO**, and **SaaS** domains. Shipped **React/TypeScript** frontend architecture and **premium UI/UX** from design to production, alongside **Node.js/PostgreSQL** backend work and cloud-native **DevOps** on **Linux** and **Azure**.
+**Front End Engineer** with **3 years** of experience, full-time and freelance, **10+** production web applications across **EdTech**, **Fintech**, **Automotive**, **NGO**, and **SaaS** domains.. Shipped in **React, Next.js, and TypeScript**. **Full-stack** capable with backend development, DevOps, and developer tooling experience.
 
 ## **Links**
 <div>
