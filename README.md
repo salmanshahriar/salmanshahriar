@@ -1,6 +1,6 @@
 ## **About me**
 
-**Front End Engineer** with **3 years** of experience, full-time and freelance, **10+** production web applications across **EdTech**, **Fintech**, **Automotive**, **NGO**, and **SaaS** domains.. Shipped in **React, Next.js, and TypeScript**. **Full-stack** capable with backend development, DevOps, and developer tooling experience.
+**Front End Engineer** with **3 years** of experience, full-time and freelance, **10+** production web applications across **EdTech**, **Fintech**, **Automotive**, **NGO**, and **SaaS** domains. Shipped in **React, Next.js, and TypeScript**. **Full-stack** capable with backend development, DevOps, and developer tooling experience.
 
 ## **Links**
 <div>
