@@ -1,6 +1,6 @@
 ## **About me**
 
-**Front End Engineer** with **3 years** of experience, full-time and freelance, **10+** production web applications across **EdTech**, **Fintech**, **Automotive**, **NGO**, and **SaaS** domains. Shipped in **React, Next.js, and TypeScript**. **Full-stack** capable with backend development, DevOps, and developer tooling experience.
+**Full-Stack Software Developer** specializing in **Frontend Engineering**, with **3 years** of experience building **10+ production-grade web applications** across **EdTech**, **Fintech**, **Automotive**, **NGO**, and **SaaS** domains. Shipped in **Next.js, React, and TypeScript**. **Full-stack** capable with **Node.js**, **DevOps**, and developer tooling experience.
 
 ## **Links**
 <div>
@@ -23,13 +23,19 @@ Lets connect on LinkedIn: <a href="https://www.linkedin.com/in/salman-shahriar" 
 ```typescript
 const salmanShahriar = {
   pronouns: ["he", "him"],
-  languages: ["JavaScript", "TypeScript", "Go"],
-  askMeAbout: ["web dev", "devOps", "music", "coffee"],
+  languages: ["JavaScript", "TypeScript", "HTML", "CSS", "SQL"],
+  askMeAbout: ["web development", "DevOps", "AI", "music", "coffee"],
   technologies: {
-    frontEnd: ["Tailwind","React", "Next.js"],
-    backEnd: ["Node.js", "PostgreSQL", "Prisma", "Redis"],
-    tools: ["Git", "Docker", "Figma", "Linux", "AWS" "Azure"],
-    ai: ["Agentic AI", "LLM Integration"]
+    core: {
+      frontEnd: ["React", "Next.js", "Inertia.js", "Shadcn/ui", "Tailwind CSS", "Framer Motion", "GSAP"],
+      backEndAndData: ["Node.js", "Prisma", "Drizzle", "PostgreSQL", "Redis"],
+      cloudAndDevOps: ["Linux", "Cloudflare Workers", "Vercel", "Azure", "CI/CD", "Docker", "Dokploy"],
+      ai: ["Agentic AI", "LLM Integration"]
+    },
+    familiar: {
+      languagesAndFrameworks: ["C++", "Go", "Flutter"],
+      backEndAndData: ["NestJS", "MongoDB", "MySQL"]
+    }
   }
 };
 ```
